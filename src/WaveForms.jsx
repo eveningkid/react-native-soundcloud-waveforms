@@ -24,12 +24,11 @@ const styles = StyleSheet.create({
   container: {
     flexDirection: 'row',
     alignItems: 'flex-end',
-    height: 50,
+    height: '100%',
   },
   containerReversed: {
     alignItems: 'flex-start',
     opacity: 0.3,
-    height: 40,
   },
   stick: {
     backgroundColor: 'white',
